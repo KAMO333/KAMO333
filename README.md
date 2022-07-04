@@ -1,6 +1,4 @@
-![main-qimg-9c59aea387206cb888918a49f68dbb89-pjlq](https://user-images.githubusercontent.com/101883751/177181807-09f26c37-243e-43f8-87f2-46789751b27d.jpg)
-
-
+![javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview](https://user-images.githubusercontent.com/101883751/177182040-5a690131-944b-4016-81a2-eb955b2cf1a8.jpg)
 - 👋 Hi, I’m Kamo Mmopane
 - 👀 I’m interested in understanding more of Javascript.
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
