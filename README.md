@@ -1,3 +1,6 @@
+![javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview](https://user-images.githubusercontent.com/101883751/177180689-aeeb8a4a-6667-423e-a15d-01e540c35cd4.jpg)
+
+
 - 👋 Hi, I’m Kamo Mmopane
 - 👀 I’m interested in understanding more of Javascript.
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
