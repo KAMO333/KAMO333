@@ -2,6 +2,7 @@
 
 
 - 👋 Hi, I’m Kamo Mmopane
+
 - 👀 I’m interested in understanding more of Javascript.
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
 - 💞️ I’m looking to collaborate on anything concerning web development.
