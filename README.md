@@ -1,4 +1,4 @@
-![javascript-google-node-js-html-microsoft-visual-studio-hd-wallpaper-preview](https://user-images.githubusercontent.com/101883751/177180689-aeeb8a4a-6667-423e-a15d-01e540c35cd4.jpg)
+![main-qimg-9c59aea387206cb888918a49f68dbb89-pjlq](https://user-images.githubusercontent.com/101883751/177181807-09f26c37-243e-43f8-87f2-46789751b27d.jpg)
 
 
 - 👋 Hi, I’m Kamo Mmopane
