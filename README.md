@@ -1,4 +1,5 @@
-![web-development-coding-programming-internet-technology-business-concept-web-development-coding-programming-internet-technology-121903546](https://user-images.githubusercontent.com/101883751/177183096-cfd4f02b-4843-48f2-903b-ba461758e7dd.jpg)
+![Web-Development](https://user-images.githubusercontent.com/101883751/177183949-9538a128-b9d5-47a1-b0fd-9bb004889c2c.jpg)
+
 
 - 👋 Hi, I’m Kamo Mmopane
 - 👀 I’m interested in understanding more of Javascript.
