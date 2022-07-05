@@ -1,6 +1,6 @@
-![Web-Development](https://user-images.githubusercontent.com/101883751/177183949-9538a128-b9d5-47a1-b0fd-9bb004889c2c.jpg)
+![1_YOp4dWRPoapPW-ZNV7IXyQ](https://user-images.githubusercontent.com/101883751/177296721-ba18d4bb-f367-4c4d-ace0-1944e9879c41.jpeg)
 
-#👋 Hi, I’m Kamo Mmopane.
+# 👋 Hi, I’m Kamo Mmopane.
 
 
 - 👀 I’m interested in understanding more of Javascript.
