@@ -12,6 +12,9 @@
 - 🧲 All my projects can be found here https://app.netlify.com/teams/mmopanemoroka/sites
 - ❓ Ask me about anything concerning web development.
 
+![1_YOp4dWRPoapPW-ZNV7IXyQ](https://user-images.githubusercontent.com/101883751/177308083-432e9695-c49e-42fd-88f7-86320e5831b6.jpeg)
+
+
 
 
 <!---
