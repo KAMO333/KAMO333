@@ -1,7 +1,7 @@
 ![Web-Development](https://user-images.githubusercontent.com/101883751/177297531-d7de7e58-1431-4d5e-a4c7-ff37eecb62df.jpg)
 
 
-                                   # 👋 Hi, I’m Kamo Mmopane. 
+# 👋 Hi, I’m Kamo Mmopane. 
 # I'm a passionate, visionary and enthusist web developer.
 
 
