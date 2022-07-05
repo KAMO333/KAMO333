@@ -7,7 +7,12 @@
 - 👀 I’m interested in understanding more of Javascript.
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
 - 💞️ I’m looking to collaborate on anything concerning web development.
-- 📫 How to reach me ...moroka1992@gmail.com. Twitter handle is @moroka_damn.
+- 📫 How to reach me ...moroka1992@gmail.com.
+
+- Always ready to connect with anyone...
+- ![download (1)](https://user-images.githubusercontent.com/101883751/177299219-d43cb6bc-9365-42dc-877e-b28250ce9566.png)
+
+-  
 
 <!---
 KAMO333/KAMO333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
