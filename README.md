@@ -10,6 +10,7 @@
 - 💞️ I’m looking to collaborate on anything concerning web development.
 - 📫 How to reach me ...moroka1992@gmail.com.
 - 🧲 All my projects can be found here https://app.netlify.com/teams/mmopanemoroka/sites
+- ❓ Ask me about - HTML, CSS, JAVASCRIPT, GIT, REACT, BOOTSTRAP, FIREBASE, MANGO DB
 
 
 
