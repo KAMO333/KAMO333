@@ -2,7 +2,7 @@
 
 
 # 👋 Hi, I’m Kamo Mmopane. 
-# I'm a passionate, visionary and enthusist web developer.
+# 🙂 I'm a passionate, visionary and enthusist web developer.
 
 
 - 👀 I’m interested in understanding more of Javascript.
