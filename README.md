@@ -1,14 +1,15 @@
 ![Web-Development](https://user-images.githubusercontent.com/101883751/177297531-d7de7e58-1431-4d5e-a4c7-ff37eecb62df.jpg)
 
 
-# 👋 Hi, I’m Kamo Mmopane. I'm a passionate, visionary and enthusist web developer.
+# 👋 Hi, I’m Kamo Mmopane. 
+# I'm a passionate, visionary and enthusist web developer.
 
 
 - 👀 I’m interested in understanding more of Javascript.
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
 - 💞️ I’m looking to collaborate on anything concerning web development.
 - 📫 How to reach me ...moroka1992@gmail.com.
-- 🧲 All my projects can be found https://app.netlify.com/teams/mmopanemoroka/sites
+- 🧲 All my projects can be found here https://app.netlify.com/teams/mmopanemoroka/sites
 
 
 
