@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning how to make Instagram clone funtional with JS,the DOM and Firebase
 - 💞️ I’m looking to collaborate on anything concerning web development.
 - 📫 How to reach me ...moroka1992@gmail.com.
+- 🧲 All my projects can be found https://app.netlify.com/teams/mmopanemoroka/sites
+
 
 
 <!---
