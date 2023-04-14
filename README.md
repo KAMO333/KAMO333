@@ -16,7 +16,7 @@
 
 - 🤝 I’m looking for help with **Redux**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/mmopanemoroka/sites](https://app.netlify.com/teams/mmopanemoroka/sites)
+- 👨‍💻 All of my projects are available at [https://km-bootstrap-portfolio.netlify.app]
 
 - 💬 Ask me about **HTML, CSS & JavaScript**
 
