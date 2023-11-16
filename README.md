@@ -1,4 +1,4 @@
-![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)
+![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1060/1*3ET_B23xHpqS0btBS5SoBQ.png)
 <h1 align="center">Hi 👋, I'm Kamo Mmopane</h1>
 <h3 align="center">A passionate MERN full stack developer from South Africa</h3>
 
