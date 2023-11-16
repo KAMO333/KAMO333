@@ -8,27 +8,26 @@
 
 <p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
 
-- 🔭 I’m currently working on **Problem Solving**
+- 🔭 I’m currently working on **preparing for technical interviews**
 
-- 🌱 I’m currently learning **mern full stack**
+- 🌱 I’m currently learning **algirithms**
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **mock interviews**
 
-- 🤝 I’m looking for help with **Redux**
+- 🤝 I’m looking for help with **redux**
 
 - 👨‍💻 All of my projects are available at https://km-bootstrap-portfolio.netlify.app
 
-- 💬 Ask me about **HTML, CSS & JavaScript**
+- 💬 Ask me about **javascript**
 
-- 📫 How to reach me **moroka1992@gmail.com**
+- 📫 How to reach me **moroka2025@gmail.com**
 
 - ⚡ Fun fact **I'm a mystic**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moroka_damn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moroka_damn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kamogelo mmopane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamogelo mmopane" height="30" width="40" /></a>
-<a href="https://fb.com/moroka mmopane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="moroka mmopane" height="30" width="40" /></a>
+<a href="https://twitter.com/moroka_damn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moroka_damn" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
