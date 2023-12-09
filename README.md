@@ -20,7 +20,7 @@
 
 - 💬 Ask me about **javascript**
 
-- 📫 How to reach me **moroka2025@gmail.com**
+- 📫 How to reach me **kamosworkemail@gmail.com**
 
 - ⚡ Fun fact **I'm a mystic**
 
