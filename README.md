@@ -1,6 +1,6 @@
-![MasterHead](https://cdn-images-1.medium.com/v2/resize:fit:1060/1*3ET_B23xHpqS0btBS5SoBQ.png)
-<h1 align="center">Hi 👋, I'm Kamo Mmopane</h1>
-<h3 align="center">A passionate mern full stack developer from South Africa</h3>
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*fgMMAFK0S_vhp3l9PkxsxA.png)
+<h1 align="center">Hi 👋, I'm Kamogelo Mmopane</h1>
+<h3 align="center">A full stack developer living in South Africa</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
@@ -8,17 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
 
-- 🔭 I’m currently working on **preparing for technical interviews**
+- 🔭 I’m currently working on **job seeking & interview preparations**
 
-- 🌱 I’m currently learning **algirithms**
+- 🌱 I’m currently learning **new technologies**
 
 - 👯 I’m looking to collaborate on **mock interviews**
 
-- 🤝 I’m looking for help with **redux**
+- 🤝 I’m looking for help with **job search**
 
 - 👨‍💻 All of my projects are available at https://km-bootstrap-portfolio.netlify.app
 
-- 💬 Ask me about **javascript**
+- 💬 Ask me about **javaScript**
 
 - 📫 How to reach me **kamosworkemail@gmail.com**
 
@@ -27,7 +27,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kamogelo-mmopane-771ba2241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kamogelo mmopane" height="30" width="40" /></a>
-<a href="https://twitter.com/moroka_damn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moroka_damn" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/moroka_damn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="moroka_damn" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
