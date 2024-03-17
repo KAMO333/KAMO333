@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
 
-- 🔭 I’m currently working on **job seeking & interview preparations**
+- 🔭 I’m currently working on **coding challenges with JavaScript & building React apps**
 
 - 🌱 I’m currently learning **new technologies**
 
