@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*fgMMAFK0S_vhp3l9PkxsxA.png)
+![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*LCetpKj9HuZxRbLCX7L_7g.png)
 <h1 align="center">Hi 👋, I'm Kamogelo Mmopane</h1>
 <h3 align="center">A full stack developer living in South Africa</h3>
 
