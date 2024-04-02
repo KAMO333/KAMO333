@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:1400/1*LCetpKj9HuZxRbLCX7L_7g.png)
 <h1 align="center">Hi 👋, I'm Kamogelo Mmopane</h1>
-<h3 align="center">A full stack developer living in South Africa</h3>
+<h3 align="center">A Full Stack Developer living in South Africa</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
