@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
 
-- 🔭 I’m currently working on **coding challenges with JavaScript/Python and building React apps**
+- 🔭 I’m currently working on **a portfolio generating web app @ KeelWorks foundation**
 
-- 🌱 I’m currently learning **Python & PostgresSQL**
+- 🌱 I’m currently practicing my JavaScript and Python skills with coding challenges.
 
-- 👯 I’m looking to collaborate on **mock interviews**
+- 👯 I’m looking to collaborate on **building react web apps**
 
 - 🤝 I’m looking for help with **job search**
 
