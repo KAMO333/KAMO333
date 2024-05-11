@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **a portfolio generating web app @ KeelWorks foundation**
 
-- 🌱 I’m currently practicing my JavaScript and Python skills with coding challenges.
+- 🌱 I’m currently practicing my **JavaScript and Python skills with coding challenges**.
 
 - 👯 I’m looking to collaborate on **building react web apps**
 
