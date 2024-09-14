@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp6784487.jpg)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Kamogelo Mmopane</h1>
 <h3 align="center">A Full Stack Developer living in South Africa</h3>
 
