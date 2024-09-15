@@ -7,17 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
 
-- 🔭 I’m currently working on **a portfolio generating web app @ KeelWorks foundation**
+- 🔭 I’m currently working on **Data Sciences, Frameworks, Web Development, Mobile App Development**
 
-- 🌱 I’m currently practicing my **JavaScript and Python** skills with coding challenges.
+- 🌱 I’m currently practicing my **Python** skills with coding challenges.
 
-- 👯 I’m looking to collaborate on **building react web apps**
-
-- 🤝 I’m looking for help with **job search**
+- 👯 I’m looking to collaborate on **Building Web/Mobile Applications**
 
 - 👨‍💻 All of my projects are available at https://km-bootstrap-portfolio.netlify.app
 
-- 💬 Ask me about **javaScript**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **kamosworkemail@gmail.com**
 
