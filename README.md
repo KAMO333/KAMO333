@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamo333&label=Profile%20views&color=0e75b6&style=flat" alt="kamo333" /> </p>
 
-<p align="left"> <a href="https://twitter.com/moroka_damn" target="blank"><img src="https://img.shields.io/twitter/follow/moroka_damn?logo=twitter&style=for-the-badge" alt="moroka_damn" /></a> </p>
-
 - 🔭 I’m currently working on **Data Sciences, Frameworks, Web Development, Mobile App Development**
 
 - 🌱 I’m currently practicing my **Python** skills with coding challenges.
