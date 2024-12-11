@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a React & Node.js web app<br>👯 I’m looking to collaborate on any React, Python Projects<br>🛠 I'm looking for help with with SQL<br>📚 I’m currently learning OOP with Java<br>💬 Ask me about Web Development<br>⚡ Fun fact I'm a mystic
+🔭 I’m currently working on a React & Node.js web app<br>👯 I’m looking to collaborate on any React, Python Projects<br>🛠 I'm looking for help with SQL<br>📚 I’m currently learning OOP with Java<br>💬 Ask me about Web Development<br>⚡ Fun fact I'm a mystic
 
 
 ## 🌐 Socials:
