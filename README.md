@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on a React & Node.js web app<br>👯 I’m looking to collaborate on any React, Python Projects<br>🛠 I'm looking for help with SQL<br>📚 I’m currently learning OOP with Java<br>💬 Ask me about Web Development<br>⚡ Fun fact I'm a mystic
+👋 Hi there! I’m Kamogelo Mmopane<br>
+🌟 I’m a passionate web developer who loves solving problems and building innovative applications. From designing intuitive frontends to developing robust backends, I’m always exploring new tools and technologies to sharpen my skills and bring ideas to life.<br>
+
+🔭 I’m currently working on a React & Node.js web app<br>
+👯 I’m looking to collaborate on any React, Python Projects<br>
+🛠 I'm looking for help with SQL<br>
+📚 I’m currently learning OOP with Java<br>
+💬 Ask me about Web Development, JavaScript, or Python<br>
+✨ I’m always excited to explore full-stack development, APIs, and database design<br>
+⚡ Fun fact: I’m a mystic who believes that coding is both art and science<br>
+
+Let’s connect and build something awesome together. 🚀
 
 
 ## 🌐 Socials:
