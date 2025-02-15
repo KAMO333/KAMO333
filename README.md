@@ -1,8 +1,9 @@
-# 💫 About Me:
-👋 Hi there! I’m **Kamogelo**<br>
-🌟 I’m a passionate **Software Developer** who loves solving problems and building innovative applications. From designing intuitive frontends to developing robust backends, I’m always exploring new tools and technologies to sharpen my skills and bring ideas to life.<br>
+## 👋 Hi there! I’m Kamogelo  
 
-Let’s connect and build something awesome together. 🚀
+🌟 A passionate **Full-Stack Developer** blending creativity with technical expertise. I build seamless web applications, integrating **React, Node.js, and MongoDB** to craft dynamic and scalable solutions. From designing **intuitive UIs with Chakra UI & Tailwind** to **optimizing backend performance with JWT authentication**, I thrive on solving complex problems and delivering high-quality software.  
+
+🚀 **Always learning, always building,** I love pushing the boundaries of what’s possible. Let’s connect and create something extraordinary!  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/) 
