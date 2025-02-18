@@ -1,8 +1,9 @@
-## 👋 Hi there! I’m Kamogelo  
+## 👋 Hi there! I’m **Kamogelo**  
 
-🌟 A passionate **Full-Stack Developer** blending creativity with technical expertise. I build seamless web applications, integrating **React, Node.js, and MongoDB** to craft dynamic and scalable solutions. From designing **intuitive UIs with Chakra UI & Tailwind** to **optimizing backend performance with JWT authentication**, I thrive on solving complex problems and delivering high-quality software.  
+I’m a **web developer** specializing in **front-end** (**React, JavaScript**) and **back-end** (**Python, Node.js**) development. ⚡ I build **responsive interfaces** and **reliable systems**, collaborating in **Agile teams** to deliver **quality projects**. 💡 Passionate about **problem-solving** and **performance optimization**, I’m eager to explore **AWS** and expand my skillset. 🚀  
 
-🚀 **Always learning, always building,** I love pushing the boundaries of what’s possible. Let’s connect and create something extraordinary!  
+🚀 **Always learning, always building,** I love pushing the boundaries of what’s possible. Let’s connect and create something **extraordinary!** ✨  
+
 
 
 ## 🌐 Socials:
