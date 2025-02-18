@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m **Kamogelo**  
 
-I’m a **web developer** specializing in **front-end** (**React, JavaScript**) and **back-end** (**Python, Node.js**) development. ⚡ I build **responsive interfaces** and **reliable systems**, collaborating in **Agile teams** to deliver **quality projects**. 💡 Passionate about **problem-solving** and **performance optimization**, I’m eager to explore **AWS** and expand my skillset. 🚀  
+I’m a **web developer** specializing in **front-end** (**React, JavaScript**) and **back-end** (**Python, Node.js, Java**) development. ⚡ I build **responsive interfaces** and **reliable systems**, collaborating in **Agile teams** to deliver **quality projects**. 💡 Passionate about **problem-solving** and **performance optimization**, I’m eager to explore **AWS** and expand my skillset. 🚀  
 
 🚀 **Always learning, always building,** I love pushing the boundaries of what’s possible. Let’s connect and create something **extraordinary!** ✨  
 
