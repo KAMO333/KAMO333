@@ -1,6 +1,6 @@
 ## 👋 Hi there! I’m **Kamogelo**  
 
-I’m a Full-Stack Developer skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **Express**, **MongoDB**, **Firebase**, **Redux**, **Git**, **REST APIs**, **OOP**, and **Agile methodology** 💻🚀. With **strong problem-solving** and **communication skills**, I build responsive interfaces and reliable systems.
+I’m a Full-Stack Software Developer skilled in **HTML**, **CSS**, **JavaScript**, **React.js**, **Node.js**, **Express**, **MongoDB**, **Firebase**, **Redux**, **Git**, **REST APIs**, **OOP**, and **Agile methodology** 💻🚀. With **strong problem-solving** and **communication skills**, I build responsive interfaces and reliable systems.
 
 Passionate about optimizing performance and **collaborating with teams**, I deliver scalable solutions 🌱💡. Always learning, I’m eager to dive into **AWS** and cloud technologies ☁️💫.
 
