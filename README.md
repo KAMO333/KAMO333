@@ -1,8 +1,6 @@
-# Kamogelo Mmopane
+👋 **Hi, I'm Kamogelo Mmopane.**
 
 [![LinkedIn Badge](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/)
-
-👋 **Hi, I'm Kamogelo Mmopane.**
 
 I'm a **Full Stack Developer** building performant frontends with **React, Tailwind CSS, and JavaScript**, with strong fundamentals in **HTML5 and CSS3**. On the backend, I work with **Node.js/Express and MongoDB**, designing RESTful APIs and shipping through **Docker and CI/CD pipelines**.
 
