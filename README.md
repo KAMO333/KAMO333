@@ -1,6 +1,7 @@
-👋 **Hi, I'm Kamogelo Mmopane.**
+<h1>👋 Hi, I'm Kamogelo Mmopane.</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kamosportfolio.netlify.app/)
 
 I'm a **Full Stack Developer** building performant frontends with **React, Tailwind CSS, and JavaScript**, with strong fundamentals in **HTML5 and CSS3**. On the backend, I work with **Node.js/Express and MongoDB**, designing RESTful APIs and shipping through **Docker and CI/CD pipelines**.
 
@@ -24,7 +25,3 @@ Outside of work, I stay sharp through HackerRank and Codewars. I genuinely enjoy
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
-
-### 📈 System Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=KAMO333&theme=dark&hide_border=true&background=030712)](https://git.io/streak-stats)
