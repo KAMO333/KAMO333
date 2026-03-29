@@ -4,9 +4,11 @@
 
 👋 **Hi, I'm Kamogelo Mmopane.**
 
-I'm a **Full Stack Developer** building performant frontends with **React, Tailwind CSS, and JavaScript**, with strong fundamentals in **HTML5 and CSS3**. On the backend, I work with **Node.js/Express and MongoDB**, designing RESTful APIs and shipping through **Docker and CI/CD pipelines**. 
+I'm a **Full Stack Developer** building performant frontends with **React, Tailwind CSS, and JavaScript**, with strong fundamentals in **HTML5 and CSS3**. On the backend, I work with **Node.js/Express and MongoDB**, designing RESTful APIs and shipping through **Docker and CI/CD pipelines**.
 
 I keep my code reliable with **Jest** and use **Git and GitHub Actions** to collaborate cleanly. Thriving in Agile teams, with a current interest in **TypeScript and PostgreSQL**.
+
+Outside of work, I stay sharp through HackerRank and Codewars. I genuinely enjoy the puzzle of algorithmic thinking. I keep up with the dev world through tech news, podcasts, and books.
 
 ---
 
@@ -26,4 +28,5 @@ I keep my code reliable with **Jest** and use **Git and GitHub Actions** to coll
 ---
 
 ### 📈 System Stats
-![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=KAMO333&show_icons=true&theme=dark&hide_border=true&bg_color=030712)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=KAMO333&theme=dark&hide_border=true&background=030712)](https://git.io/streak-stats)
