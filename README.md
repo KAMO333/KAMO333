@@ -3,11 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kamosportfolio.netlify.app/)
 
-I'm a **Full Stack Developer** building performant frontends with **React, Tailwind CSS, and JavaScript**, with strong fundamentals in **HTML5 and CSS3**. On the backend, I work with **Node.js/Express and MongoDB**, designing RESTful APIs and shipping through **Docker and CI/CD pipelines**.
-
-I keep my code reliable with **Jest** and use **Git and GitHub Actions** to collaborate cleanly. Thriving in Agile teams, with a current interest in **TypeScript and PostgreSQL**.
-
-Outside of work, I stay sharp through HackerRank and Codewars. I genuinely enjoy the puzzle of algorithmic thinking. I keep up with the dev world through tech news, podcasts, and books.
+I am a Full-Stack Software Engineer building scalable applications with React, Tailwind CSS, and TypeScript. As a WeThinkCode_ graduate with an Occupational Certificate in Software Engineering, I have a strong foundation in web development with HTML, CSS, and JavaScript. On the backend, I specialize in Node.js, Express, and MongoDB, designing RESTful APIs that are containerized using Docker and deployed through CI/CD pipelines. I ensure code quality by running unit and integration tests with Vitest and Jest, and I leverage Git and GitHub Actions for version control and clean collaboration. I thrive in Agile team environments, love leveraging AI as a powerful tool to accelerate and enhance my development workflow, and am currently expanding my expertise in PostgreSQL and AWS.
 
 ---
 
@@ -23,5 +19,6 @@ Outside of work, I stay sharp through HackerRank and Codewars. I genuinely enjoy
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/AI%20Tools-%2374aa9c.svg?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
