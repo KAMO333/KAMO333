@@ -3,7 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kamogelommopane/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=white)](https://kamosportfolio.netlify.app/)
 
-I am a Full-Stack Software Engineer building scalable applications with React, Tailwind CSS, and TypeScript. As a WeThinkCode_ graduate with an Occupational Certificate in Software Engineering, I have a strong foundation in web development with HTML, CSS, and JavaScript. On the backend, I specialize in Node.js, Express, and MongoDB, designing RESTful APIs that are containerized using Docker and deployed through CI/CD pipelines. I ensure code quality by running unit and integration tests with Vitest and Jest, and I leverage Git and GitHub Actions for version control and clean collaboration. I thrive in Agile team environments, love leveraging AI as a powerful tool to accelerate and enhance my development workflow, and am currently expanding my expertise in PostgreSQL and AWS.
+I am a Full-Stack Software Engineer building scalable frontend applications with React, Tailwind CSS, and TypeScript. On the backend, I specialize in Node.js, Express, and MongoDB, designing RESTful APIs containerized using Docker and deployed through CI/CD pipelines. I ensure code quality with Vitest and Jest, leverage Git and GitHub Actions for version control, and thrive in Agile environments. I love leveraging AI to accelerate my development workflow and am currently expanding my expertise in PostgreSQL and AWS.
+
+As a WeThinkCode_ graduate with an Occupational Certificate in Software Engineering, I trained across two blocks covering programming fundamentals, object-oriented programming, brownfield development, client-side web applications with HTML, CSS and JavaScript, and the Service-Oriented Architecture elective covering service decomposition, message queues and asynchronous communication.
 
 ---
 
