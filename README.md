@@ -1,4 +1,4 @@
-# Hi, I'm Kamo 👋
+# Hi, I'm Kamogelo 👋
 
 **Full Stack Engineer** with 2 years of working experience specializing in React, TypeScript, Node.js, Express.js, and relational databases utilizing PostgreSQL, Prisma, and Supabase, alongside hands-on experience with NoSQL MongoDB and Mongoose. I build component-driven UIs with Tailwind CSS and containerize event-driven RESTful APIs via Docker, backing my code with rigorous Jest/Vitest testing and GitHub Actions CI/CD pipelines.
 
@@ -10,43 +10,24 @@ Today, I optimize my daily development workflow using AI tools to write better c
 
 ## 🛠️ Tech Stack
 
-### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Databases & ORMs
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### Testing
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-
-### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
----
-
-## 🎓 Background
-
-![WeThinkCode_](https://img.shields.io/badge/WeThinkCode__-NQF_6-black?style=for-the-badge)
-
-Graduate of **WeThinkCode_**, a peer-to-peer software engineering program covering object-oriented programming, brownfield codebase navigation, and a specialization in Service-Oriented Architecture — service decomposition, asynchronous communication, and cross-service messaging via message queues.
 
 ---
 
